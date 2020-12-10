@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="texto_tamano">20sp</dimen>
+    <dimen name="margen_base">16dp</dimen>
+    <dimen name="interlineado">1.2</dimen>
+</resources>
